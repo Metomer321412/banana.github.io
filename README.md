@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Title</title>
+        <title>Banana website</title>
     </head>
     <body>
         <h1> welcome to my website</h1>
